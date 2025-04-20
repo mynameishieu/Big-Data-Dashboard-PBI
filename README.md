@@ -3,7 +3,7 @@
 ## System stages: `APPLICATION` & `ORBP`
 ### PRODCUTS: `CLX`, `CCX`, `CCW`, `ACL`, `CD`, `TW`, `BNPL`
 
-This repository contains real-time monitoring dashboards for **Big Data query performance** across multiple systems and data domains. The dashboards are divided into two key systems:
+This repository contains daily monitoring dashboards for **Big Data query performance** across multiple system stages and products. The dashboards are divided into two key systems:
 
 - **APPL** – Application-Level Monitoring  
 - **ORBP** – Online-Based Processing Monitoring  
