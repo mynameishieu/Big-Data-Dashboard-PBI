@@ -1,7 +1,7 @@
 # 🧠 Big Data Monitoring Report
 
 ## System stages: `APPLICATION` & `ORBP`
-### PRODCUTS: `CLX`, `CCX`, `CCW`, `ACL`, `CD`, `TW`, `BNPL`
+### PRODUCTS: `CLX`, `CCX`, `CCW`, `ACL`, `CD`, `TW`, `BNPL`
 
 This repository contains daily monitoring dashboards for **Big Data query performance** across multiple system stages and products. The dashboards are divided into two key systems:
 
